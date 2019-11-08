@@ -29,5 +29,9 @@ usart_test\main.o: C:/Users/ADMIN/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/D
 usart_test\main.o: C:/Users/ADMIN/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 usart_test\main.o: C:/Users/ADMIN/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 usart_test\main.o: C:/Users/ADMIN/STM32Cube/Repository/STM32Cube_FW_F4_V1.24.1/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+usart_test\main.o: ../Inc/dma.h
 usart_test\main.o: ../Inc/usart.h
 usart_test\main.o: ../Inc/gpio.h
+usart_test\main.o: ..\Hardware\content\includes.h
+usart_test\main.o: ..\Hardware\myUsarthd\myUsarthd.h
+usart_test\main.o: ..\Hardware\content\includes.h
